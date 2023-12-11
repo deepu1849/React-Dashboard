@@ -1,0 +1,432 @@
+{
+    "student": [
+      {"img":"https://randomuser.me/api/portraits/men/1.jpg","name":"kenny","email":"email","text":"https://img.icons8.com/plasticine/100/null/react.png"},
+      {"img":"https://randomuser.me/api/portraits/women/1.jpg","name":"Anita Rodriquez","email":"email","text":"https://img.icons8.com/color/48/null/angularjs.png"},
+      {"img":"https://randomuser.me/api/portraits/men/2.jpg","name":"Cora Key","email":"email","text":"https://img.icons8.com/fluency/48/null/flutter.png"},
+      {"img":"https://randomuser.me/api/portraits/women/2.jpg","name":"Tarik Novak","email":"email","text":"https://img.icons8.com/fluency/48/null/node-js.png"},
+      {"img":"https://randomuser.me/api/portraits/men/3.jpg","name":"Kylan Dorsey","email":"email","text":"https://img.icons8.com/color/48/null/javascript--v1.png"},
+      {"img":"https://randomuser.me/api/portraits/women/3.jpg","name":"Melisa Moon","email":"email","text":"https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"},
+      {"img":"https://randomuser.me/api/portraits/women/2.jpg","name":"Tarik Novak","email":"email","text":"https://img.icons8.com/fluency/48/null/node-js.png"},
+      {"img":"https://randomuser.me/api/portraits/men/3.jpg","name":"Kylan Dorsey","email":"email","text":"https://img.icons8.com/color/48/null/javascript--v1.png"},
+      {"img":"https://randomuser.me/api/portraits/women/3.jpg","name":"Melisa Moon","email":"email","text":"https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"},
+      {"img":"https://randomuser.me/api/portraits/men/2.jpg","name":"Cora Key","email":"email","text":"https://img.icons8.com/fluency/48/null/flutter.png"},
+      {"img":"https://randomuser.me/api/portraits/women/2.jpg","name":"Tarik Novak","email":"email","text":"https://img.icons8.com/fluency/48/null/node-js.png"},
+      {"img":"https://randomuser.me/api/portraits/men/3.jpg","name":"Kylan Dorsey","email":"email","text":"https://img.icons8.com/color/48/null/javascript--v1.png"},
+      {"img":"https://randomuser.me/api/portraits/men/2.jpg","name":"Cora Key","email":"email","text":"https://img.icons8.com/fluency/48/null/flutter.png"},
+      {"img":"https://randomuser.me/api/portraits/women/2.jpg","name":"Tarik Novak","email":"email","text":"https://img.icons8.com/fluency/48/null/node-js.png"},
+      {"img":"https://randomuser.me/api/portraits/men/3.jpg","name":"Kylan Dorsey","email":"email","text":"https://img.icons8.com/color/48/null/javascript--v1.png"},
+      {"img":"https://randomuser.me/api/portraits/women/3.jpg","name":"Melisa Moon","email":"email","text":"https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"},
+      {"img":"https://randomuser.me/api/portraits/women/2.jpg","name":"Tarik Novak","email":"email","text":"https://img.icons8.com/fluency/48/null/node-js.png"},
+      {"img":"https://randomuser.me/api/portraits/men/3.jpg","name":"Kylan Dorsey","email":"email","text":"https://img.icons8.com/color/48/null/javascript--v1.png"},
+      {"img":"https://randomuser.me/api/portraits/women/3.jpg","name":"Melisa Moon","email":"email","text":"https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"},
+      {"img":"https://randomuser.me/api/portraits/men/1.jpg","name":"Somnath Giri","email":"email","text":"https://img.icons8.com/plasticine/100/null/react.png"},
+      {"img":"https://randomuser.me/api/portraits/women/1.jpg","name":"Anita Rodriquez","email":"email","text":"https://img.icons8.com/color/48/null/angularjs.png"},
+      {"img":"https://randomuser.me/api/portraits/men/2.jpg","name":"Cora Key","email":"email","text":"https://img.icons8.com/fluency/48/null/flutter.png"},
+      {"img":"https://randomuser.me/api/portraits/women/2.jpg","name":"Tarik Novak","email":"email","text":"https://img.icons8.com/fluency/48/null/node-js.png"},
+      {"img":"https://randomuser.me/api/portraits/men/3.jpg","name":"Kylan Dorsey","email":"email","text":"https://img.icons8.com/color/48/null/javascript--v1.png"},
+      {"img":"https://randomuser.me/api/portraits/women/3.jpg","name":"Melisa Moon","email":"email","text":"https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"}
+    ],
+    "cardData":{
+      "totalRevenue":212943,
+      "yourTransections":1520,
+      "totalLikes":9721,
+      "totalUser":892
+    },
+    "pieChart": 
+      [
+        {
+            "labels": [
+                "Basic tees",
+                "Custom short Pants",
+                "Super Hoodies",
+                "Jeans"
+            ],
+            "datasets": [
+                {
+                    "data": [
+                        73,
+                        7,
+                        1,
+                        19
+                    ],
+                    "backgroundColor": [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56",
+                        "#4BC0C0"
+                    ],
+                    "hoverBackgroundColor": [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56",
+                        "#4BC0C0"
+                    ]
+                }
+            ],
+            "month": "January"
+        },
+        {
+            "labels": [
+                "Basic tees",
+                "Custom short Pants",
+                "Super Hoodies",
+                "Jeans"
+            ],
+            "datasets": [
+                {
+                    "data": [
+                        94,
+                        6,
+                        0,
+                        0
+                    ],
+                    "backgroundColor": [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56",
+                        "#4BC0C0"
+                    ],
+                    "hoverBackgroundColor": [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56",
+                        "#4BC0C0"
+                    ]
+                }
+            ],
+            "month": "February"
+        },
+        {
+            "labels": [
+                "Basic tees",
+                "Custom short Pants",
+                "Super Hoodies",
+                "Jeans"
+            ],
+            "datasets": [
+                {
+                    "data": [
+                        80,
+                        20,
+                        0,
+                        0
+                    ],
+                    "backgroundColor": [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56",
+                        "#4BC0C0"
+                    ],
+                    "hoverBackgroundColor": [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56",
+                        "#4BC0C0"
+                    ]
+                }
+            ],
+            "month": "March"
+        },
+        {
+            "labels": [
+                "Basic tees",
+                "Custom short Pants",
+                "Super Hoodies",
+                "Jeans"
+            ],
+            "datasets": [
+                {
+                    "data": [
+                        6,
+                        79,
+                        11,
+                        4
+                    ],
+                    "backgroundColor": [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56",
+                        "#4BC0C0"
+                    ],
+                    "hoverBackgroundColor": [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56",
+                        "#4BC0C0"
+                    ]
+                }
+            ],
+            "month": "April"
+        },
+        {
+            "labels": [
+                "Basic tees",
+                "Custom short Pants",
+                "Super Hoodies",
+                "Jeans"
+            ],
+            "datasets": [
+                {
+                    "data": [
+                        9,
+                        19,
+                        59,
+                        13
+                    ],
+                    "backgroundColor": [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56",
+                        "#4BC0C0"
+                    ],
+                    "hoverBackgroundColor": [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56",
+                        "#4BC0C0"
+                    ]
+                }
+            ],
+            "month": "May"
+        },
+        {
+            "labels": [
+                "Basic tees",
+                "Custom short Pants",
+                "Super Hoodies",
+                "Jeans"
+            ],
+            "datasets": [
+                {
+                    "data": [
+                        22,
+                        15,
+                        3,
+                        60
+                    ],
+                    "backgroundColor": [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56",
+                        "#4BC0C0"
+                    ],
+                    "hoverBackgroundColor": [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56",
+                        "#4BC0C0"
+                    ]
+                }
+            ],
+            "month": "June"
+        },
+        {
+            "labels": [
+                "Basic tees",
+                "Custom short Pants",
+                "Super Hoodies",
+                "Jeans"
+            ],
+            "datasets": [
+                {
+                    "data": [
+                        47,
+                        8,
+                        35,
+                        10
+                    ],
+                    "backgroundColor": [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56",
+                        "#4BC0C0"
+                    ],
+                    "hoverBackgroundColor": [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56",
+                        "#4BC0C0"
+                    ]
+                }
+            ],
+            "month": "July"
+        },
+        {
+            "labels": [
+                "Basic tees",
+                "Custom short Pants",
+                "Super Hoodies",
+                "Jeans"
+            ],
+            "datasets": [
+                {
+                    "data": [
+                        62,
+                        30,
+                        1,
+                        7
+                    ],
+                    "backgroundColor": [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56",
+                        "#4BC0C0"
+                    ],
+                    "hoverBackgroundColor": [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56",
+                        "#4BC0C0"
+                    ]
+                }
+            ],
+            "month": "August"
+        },
+        {
+            "labels": [
+                "Basic tees",
+                "Custom short Pants",
+                "Super Hoodies",
+                "Jeans"
+            ],
+            "datasets": [
+                {
+                    "data": [
+                        46,
+                        12,
+                        34,
+                        8
+                    ],
+                    "backgroundColor": [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56",
+                        "#4BC0C0"
+                    ],
+                    "hoverBackgroundColor": [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56",
+                        "#4BC0C0"
+                    ]
+                }
+            ],
+            "month": "September"
+        },
+        {
+            "labels": [
+                "Basic tees",
+                "Custom short Pants",
+                "Super Hoodies",
+                "Jeans"
+            ],
+            "datasets": [
+                {
+                    "data": [
+                        7,
+                        41,
+                        28,
+                        24
+                    ],
+                    "backgroundColor": [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56",
+                        "#4BC0C0"
+                    ],
+                    "hoverBackgroundColor": [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56",
+                        "#4BC0C0"
+                    ]
+                }
+            ],
+            "month": "October"
+        },
+        {
+            "labels": [
+                "Basic tees",
+                "Custom short Pants",
+                "Super Hoodies",
+                "Jeans"
+            ],
+            "datasets": [
+                {
+                    "data": [
+                        21,
+                        7,
+                        44,
+                        28
+                    ],
+                    "backgroundColor": [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56",
+                        "#4BC0C0"
+                    ],
+                    "hoverBackgroundColor": [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56",
+                        "#4BC0C0"
+                    ]
+                }
+            ],
+            "month": "November"
+        },
+        {
+            "labels": [
+                "Basic tees",
+                "Custom short Pants",
+                "Super Hoodies",
+                "Jeans"
+            ],
+            "datasets": [
+                {
+                    "data": [
+                        83,
+                        17,
+                        0,
+                        0
+                    ],
+                    "backgroundColor": [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56",
+                        "#4BC0C0"
+                    ],
+                    "hoverBackgroundColor": [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56",
+                        "#4BC0C0"
+                    ]
+                }
+            ],
+            "month": "December"
+        }
+    ],
+    "LineGraph":{
+      "labels": ["Week 1", "Week 2", "Week 3", "Week 4"],
+      "datasets": [
+        {
+          "label": "Guests",
+          "data": [100, 200, 100, 400],
+          "fill": false,
+          "borderColor": "#FF6384",
+          "tension": 0.1
+        },
+        {
+          "label": "Users",
+          "data": [200, 500, 400, 500],
+          "fill": false,
+          "borderColor": "#36A2EB",
+          "tension": 0.1
+        }
+      ]
+    }
+    
+    
+    
+}
